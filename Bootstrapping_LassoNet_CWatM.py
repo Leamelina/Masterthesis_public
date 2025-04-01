@@ -3,6 +3,9 @@
 
 # In[ ]:
 
+### Lizenzhinweis  
+#Dieses Notebook verwendet die Bibliothek **[lassonet]**, die unter der MIT-Lizenz steht.  
+#Copyright 2020 Louis Abraham, Ismael Lemhadri veröffentlicht mit der MIT-Lizenz 
 
 import numpy as np 
 from sklearn.model_selection import train_test_split
